@@ -1,4 +1,4 @@
-cask "temurin8" do
+cask "eclipseJdk8" do
   version "8,312:b07"
   sha256 "231cb0450c603cc861ade707b1deb01a8cbe2efd6c93e49c1707f3d899f92a93"
 
